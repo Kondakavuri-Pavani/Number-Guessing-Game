@@ -15,4 +15,8 @@ You can run the application in one of the following ways:
 
 This will start the application.
 
-Happy coding! 🙂
+Output
+![image](https://github.com/user-attachments/assets/faab63b6-e077-4d03-9cb2-56684784d8f4)
+
+
+Happy coding!
