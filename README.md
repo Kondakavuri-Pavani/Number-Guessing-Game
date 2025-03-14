@@ -16,11 +16,12 @@ You can run the application in one of the following ways:
 This will start the application.
 
 Run with these commands
-1. g++ -o number_guessing_game main.cpp
-2. ./number_guessing_game
+1. g++ main.cpp
+2. ./a.out
 
 Output
-![image](https://github.com/user-attachments/assets/faab63b6-e077-4d03-9cb2-56684784d8f4)
+![image](https://github.com/user-attachments/assets/27b8d671-66ee-4718-bbf2-9a79d2c4614c)
+
 
 
 Happy coding!
